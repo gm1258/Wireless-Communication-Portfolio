@@ -1,2 +1,2 @@
 # Wireless-Communication-Portfolio
-My study notes and MATLAB implementations for blind carrier phase estimation.
+My study notes of Wireless-Communication
